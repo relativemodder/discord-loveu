@@ -1,0 +1,15 @@
+{
+    "name": "discord-loveyou",
+    "version": "0.0.1",
+    "dependencies": [
+        {
+            "name": "cpr"
+        },
+        {
+            "name": "nlohmann-json"
+        },
+        {
+            "name": "spdlog"
+        }
+    ]
+}
